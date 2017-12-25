@@ -41,7 +41,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::Mole_Shooter.Properties.Resources.background1;
+            this.BackgroundImage = global::Mole_Shooter.Properties.Resources.background;
             this.ClientSize = new System.Drawing.Size(784, 411);
             this.Name = "MoleShooter";
             this.Text = "Mole Shooter";

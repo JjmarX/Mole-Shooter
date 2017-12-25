@@ -4,6 +4,7 @@ using System;
 using System.Drawing;
 using System.Media;
 using System.Windows.Forms;
+using System.Resources;
 
 namespace Mole_Shooter
 {  
